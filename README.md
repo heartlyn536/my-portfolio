@@ -11,7 +11,7 @@ git add .
 git commit -m "Initial commit"
 
 # Add GitHub repo as remote (replace URL with your repo's)
-git remote add origin https://github.com/yourusername/my-portfolio.git
+git remote add origin https://github.com/heartlyn536/my-portfolio.git
 
 # Push to GitHub
 git branch -M main
